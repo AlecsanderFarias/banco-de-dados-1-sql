@@ -1,0 +1,14 @@
+{
+  "name": "banco-de-dados-1-sql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AlecsanderFarias/banco-de-dados-1-sql.git",
+  "author": "AlecsanderFarias <alecs@devfarias.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
